@@ -17,7 +17,7 @@
  3.1. [The Final.](#the-final)
 
 
-## Chapter I 
+# Chapter I 
 
 ## Level 4. Room 3……4
 
@@ -84,7 +84,7 @@
 ***LOADING...***
 
 
-## Chapter II
+# Chapter II
 
 ## List 1.
 
@@ -142,7 +142,7 @@
 ***LOADING...***
 
 
-## Chapter III
+# Chapter III
 
 ## Quest 1. Master DB.
 
@@ -174,7 +174,7 @@
 ***LOADING...***
 
 
-## Chapter IV
+# Chapter IV
 
 ## The Final.
 

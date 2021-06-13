@@ -18,7 +18,7 @@ The russian version of the task can be found in the repository.
  3.1. [The Final.](#the-final)
 
 
-## Chapter I 
+# Chapter I 
 
 ## Level 4. Room 3……4
 
@@ -85,7 +85,7 @@ There must be a way out of this situation. You need to look for the solution in 
 ***LOADING...***
 
 
-## Chapter II
+# Chapter II
 
 ## List 1.
 
@@ -142,7 +142,7 @@ And here's the solution.
 ***LOADING...***
 
 
-## Chapter III
+# Chapter III
 
 ## Quest 1. Master DB.
 
@@ -174,7 +174,7 @@ Hmm, perhaps you should add a binary search index to the shared file to perform 
 ***LOADING...***
 
 
-## Chapter IV
+# Chapter IV
 
 ## The Final.
 
