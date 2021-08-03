@@ -1,7 +1,7 @@
 # Instructions for running tests.
 
 In addition to testing for correct output data, the autotest system will
-check your program and its source code for the style:
+check your program and its source code for style:
 
 * **Style tests.** To check how much the beauty of your code matches
   for example, you can test your code using the script ```materials/linters/cpplint.py```. 
@@ -20,5 +20,3 @@ check your program and its source code for the style:
   ```brew install python3``` \
   or if you have root rights (for Ubuntu / Linux Mint / Debian) \
   ```sudo apt install python3```
-
-* Also, be very careful with memory leaks! The testing system checks for this as well.

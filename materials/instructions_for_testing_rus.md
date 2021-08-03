@@ -15,5 +15,3 @@
    ```brew install python3``` \
    или, если у вас есть root-права (для Ubuntu / Linux Mint / Debian) \
    ```sudo apt install python3```
-
-* Так же будь очень внимательны с утечками памяти! Тестирующая система проверяет и на это.
