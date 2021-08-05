@@ -118,8 +118,8 @@ A piece of text is illegible, the sheet must have served as a desk leg for way t
 >   - Event ID (int);
 >   - Module ID (int);
 >   - New module status (int);
->   - Status change date (char[10] in the "dd.mm.yyyy" format);
->   - Status change time (char[8] in the "hh:mm:ss" format).
+>   - Status change date (char[10 + 1] in the "dd.mm.yyyy`\0`" format);
+>   - Status change time (char[8 + 1] in the "hh:mm:ss`\0`" format).
 >
 >If it rebels again, all you need to do is turn off all of its active additional modules (change the status to 0), delete entries about them (by setting the corresponding flag to 1), and set the main module (with id 0) to protected mode (by a consecutive change of status to 0, then 1, then 20), and move it to the first cell of the first memory level, setting the protection flag to 1 for this level. \
 >It will not be able to get out of this protected mode on its own. Therefore, we will be able to use it as we see fit when the time comes. The main thing is that it does not have helpers, both inside and outside...
