@@ -109,7 +109,7 @@ A piece of text is illegible, the sheet must have served as a desk leg for way t
 >   - Module name (char[30]);
 >   - Number of the memory level where the module is located (int);
 >   - Number of the cell where the module is located on this level (int);
->   - Removal flag (int). 
+>   - Deletion flag (int). 
 >- Table of levels ("LEVELS") consists of:
 >   - Number of memory level (int);
 >   - The number of cells on the level (int);
@@ -181,6 +181,7 @@ The database structure is described in [List 1](#list-1). Database files are
 located in the /materials directory. \
 Hint: each record in the database is a struct data type with the fields in the same 
 order as they are described above (!). \
+An example of the user interface implementation can be found in the materials. \
 Using third-party libraries is not allowed. ==***
 
 ***LOADING...***
