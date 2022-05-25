@@ -98,7 +98,7 @@ Here they are, papers with information! Looking for something useful for you.. g
 
 >I made my absolute biggest mistake when designing additional modules for j00ru. I gave it all the control over them. \
 >Back then I had no idea how it could all turn out. After all, it seemed logical: if it was able to help people in so many situations, even beyond the scope of documentation, why couldn't it monitor its own status? \
->In the end, the idea of ​​independence ruined my whole project. After the accident, we needed an immediate solution. We could not turn it off, but we could take its modules away and return it to the original state...
+>In the end, the idea of ​​independence ruined my whole project. virtual_j00ru, who was supposed be good-natured robot Verter, turned out to be a disaster. After the accident, we needed an immediate solution. We could not turn it off, but we could take its modules away and return it to the original state...
 
 A piece of text is illegible, the sheet must have served as a desk leg for way too long.
 
